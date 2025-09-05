@@ -34,8 +34,8 @@ button {
     background: transparent;
     border: 8px solid;
     border-image: linear-gradient(135deg, #ff7e5f, #feb47b, #43cea2, #185a9d) 1;
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     margin: 20px 0px 20px 0px;
     transition: box-shadow 0.3s, border-image 0.3s;
     box-shadow: 0 4px 20px rgba(0,0,0,0.12);
@@ -57,3 +57,4 @@ button:hover {
 #count-el {
     margin: auto;
 }
+
